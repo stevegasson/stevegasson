@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hello my name's Steve
+# Hey! I'm [Your Name] 😊
+
+Welcome to my GitHub! I'm a web developer, designer who loves to code, learn, and share knowledge. Whether it's developing web apps, designing or exploring new technologies, I'm always up for a challenge.
+
+When I'm not coding, you can find me traveling, filming, or taking photos. I'm always open to new projects and collaborations, so feel free to reach out if you have an idea or just want to chat!
+
 
 
 ## 🌐 Socials:
